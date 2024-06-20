@@ -7,8 +7,8 @@ Simulation code for the paper "Behavioral evolution under social learning with c
 Run the `main.py` to execute the simulations. Other files are:
 
 - `config.py`: Configuration file for setting parameters.
-- `simulation.py`: Contains the simulation model.
-- `utils.py`: Utility functions for saving and zipping plots.
+- `simulation.py`: Contains the simulation code for the stochastic model.
+- `utils.py`: Utility functions for producing plots.
 
 ## Games
 
