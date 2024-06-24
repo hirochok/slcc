@@ -1,6 +1,6 @@
 # slcc
 
-Simulation code for the paper "Behavioral evolution under social learning with complex contagion" by Chiba-Okabe, H. and Plotkin, J. See the paper for the details of the model.
+Simulation code for the paper "Social learning with complex contagion" by Chiba-Okabe, H. and Plotkin, J. See the paper for the details of the model.
 
 ## Instruction
 
